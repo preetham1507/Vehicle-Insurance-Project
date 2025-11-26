@@ -1,0 +1,4 @@
+Username : preethamsrinivasgowda_db_user
+Password : qB7HjhKWgzYYRKKT
+
+mongodb+srv://preethamsrinivasgowda_db_user:<db_password>@cluster0.sjb6w2u.mongodb.net/?appName=Cluster0
